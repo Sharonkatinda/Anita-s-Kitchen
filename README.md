@@ -22,14 +22,9 @@ Anitas Kitchen is a fictional restaurant website showcasing their menu, customer
 3. Open the `index.html` file in your web browser to view the website.
 
 ## GitHub Pages
-The website is hosted on GitHub Pages. You can access it using the following link: [Anitas Kitchen Website]()
+The website is hosted on GitHub Pages. You can access it using the following link: [Anitas Kitchen Website](sharonkatinda.github.io/Anita-s-Kitchen/)
 
-## Screenshots
-Insert screenshots or GIFs showcasing different sections of the website.
+
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Remember to replace placeholders like `Your Name`, `your-username`, and `link_to_logo_image.png` with the appropriate information and assets. The README file provides a brief overview of your project, instructions on how to set it up, and links to GitHub Pages and the license file.
+This project is licensed under the MIT License 
