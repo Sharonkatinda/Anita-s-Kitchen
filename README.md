@@ -4,7 +4,8 @@ Html and Css website for Anitas Kitchen
 
 # Anitas Kitchen Website
 
-![Anitas Kitchen Logo]    
+[Anitas Kitchen Logo]    
+
 ( C:\Users\User\Downloads\Anitas Kitchen (1).jpg)
 
 ## Author
