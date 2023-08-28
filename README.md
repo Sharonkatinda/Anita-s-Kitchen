@@ -2,7 +2,6 @@ Anita-s-Kitchen
 
 Html and Css website for Anitas Kitchen 
 
-
 # Anitas Kitchen Website
 
 [Anitas Kitchen Logo]    
