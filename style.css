@@ -109,6 +109,82 @@ body, h1, h2, h3, p {
     margin-left: 5px;
   }
   
+#fastfood {
+    background-image: URL(C:\Users\User\Downloads\foodsBg.jpg);
+    width: 1400px;
+    height: 600px;
+    margin-top: 50px;
+    padding: 100px;
+    background-repeat: no-repeat;
+}
+
+.fastfood {
+    background: #fff;
+    height: 410px;
+    width: 1050px;
+    margin-left: 70px;
+}
+
+.food {
+    flex-basis: 25%;
+    border-right: 1px solid#b7b5b5;
+    text-align: center;
+    color: #000000;
+    padding: 10px;
+    background: #d5d5d5;
+}
+
+#food {
+    background: #ffffff;
+    color: #F15A29;
+}
+
+.nav {
+    display: flex;
+}
+
+#img1 {
+    margin-left: 20px;
+}
+
+.img2 {
+    margin-left: 115px;
+}
+
+.img3 {
+    margin-left: 130px;
+}
+
+#fastfood .img{ 
+    display: inline-flex;
+    align-items: center;
+}
+
+.icon {
+    color: #F15A29;
+    padding: 30px;
+}
+
+.icon1 {
+    color: #F15A29;
+    padding: 30px;
+}
+
+.txt {
+    color: #F15A29;
+    padding-top: 300px;
+    margin-left: -200px;
+}
+
+.burger {
+    margin-left: -15px;
+}
+
+.chicken {
+    margin-left: -80px;
+}
+
+  
   #email {
     background-image: url("C:/Users/User/Downloads/subscribe.jpg");
     background-size: cover;
