@@ -17,12 +17,12 @@ Anitas Kitchen Website
 Anitas Kitchen is a fictional restaurant website showcasing their menu, customer reviews, and contact information. The website is built using HTML and CSS to create a responsive and visually appealing user interface.
 
 ## Program Setup Instructions
-1. Clone the repository: `git clone `
-2. Navigate to the project folder: `cd anitas-kitchen`
+1. Clone the repository: `git clone https://github.com/Sharonkatinda/Anita-s-Kitchen.git`
+2. Navigate to the project folder: `cd anita-s-kitchen`
 3. Open the `index.html` file in your web browser to view the website.
 
 ## GitHub Pages
-The website is hosted on GitHub Pages. You can access it using the following link: [Anitas Kitchen Website](https://your-username.github.io/anitas-kitchen/)
+The website is hosted on GitHub Pages. You can access it using the following link: [Anitas Kitchen Website]()
 
 ## Screenshots
 Insert screenshots or GIFs showcasing different sections of the website.
