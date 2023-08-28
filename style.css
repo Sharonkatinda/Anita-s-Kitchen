@@ -1,0 +1,210 @@
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .parent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    padding: 20px 40px;
+  }
+  
+  .menu__box {
+    list-style: none;
+    display: flex;
+  }
+  
+  .menu__item {
+    margin-right: 20px;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .parent .div1 {
+    background-image: url("C:/Users/User/Downloads/landing.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 100px;
+    text-align: center;
+  }
+  
+  .parent .div1 p {
+    margin-top: 20px;
+  }
+  
+  .contain {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px;
+    background-color: #f7f7f7;
+  }
+  
+  .contain-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .div2, .div3 {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    margin: 10px 0;
+  }
+  
+  .div4, .div5, .div6 {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px;
+    background-color: #fff;
+  }
+  
+  .wrapper.wrap {
+    background-color: #f7f7f7;
+  }
+  
+  .image-container {
+    display: flex;
+  }
+  
+  .image {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .text-box {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .text-box h2 {
+    margin-bottom: 10px;
+  }
+  
+  .btn-1 {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .btn-1 span {
+    margin-left: 5px;
+  }
+  
+  #email {
+    background-image: url("C:/Users/User/Downloads/subscribe.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 100px;
+  }
+  
+  #fastfood {
+    background-image: url("C:/Users/User/Downloads/foodsBg.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 100px;
+  }
+  #customers {
+    text-align: center;
+    margin-top: 30px;
+    display: flex;
+    background: #fff;
+    position: relative;
+    left: 47%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 0 5px 5px #d5d5d5;
+    width: 70%;
+} 
+
+#customers img {
+    padding-left: 20px;
+}
+
+.customers {
+    float: left;
+    margin-left: 100px;
+    border-right: 1px solid rgb(227, 225, 225);
+    padding-right: 80px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#customers h1 {
+    color: #F15A29;
+}
+
+#customers .about {
+    padding-top: 40px;
+    margin-left: 80px;
+}
+
+.i {
+    color: #F15A29;
+    float: left;
+    margin-top: 30px;
+}
+.ic {
+    float: right;
+    color: #F15A29;
+    margin-top: 30px;
+} 
+
+ 
+  footer {
+    background-color: #F15A29;
+    width: 1400px;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 50px;
+    padding-bottom: 2px;
+} 
+.logo {
+    float: left;
+    padding-left: 630px;
+}
+
+.menu {
+    padding-right: 600px;
+    margin-top: 5px;
+} 
+
+.fb {
+    margin-left: 30px;
+}
+
+.twitter {
+    margin-left: 20px;
+}
+
+.pinterest {
+    margin-left: 20px;
+}
+
+.p {
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+  @media (max-width: 768px) {
+  }
+  
